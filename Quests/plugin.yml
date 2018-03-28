@@ -1,0 +1,9 @@
+name: Quests
+description:  Quests plugin by Quickselling
+version: 1.0
+main:  me.quickselling.quests.Main
+commands:
+  quests:
+      description: Quests Command.
+
+
